@@ -5,5 +5,3 @@ I have made a blog using Django.
 
 # demo
 http://yundev.pythonanywhere.com/
-
-~/djangogirls_tutorials (master)$ tree
